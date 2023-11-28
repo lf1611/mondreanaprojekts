@@ -1,0 +1,20 @@
+.grid-kaste {
+    display: grid;
+    grid-template-columns: 320px 428px 50px;
+    grid-template-rows: 414px ;
+    gap: 9px;
+    background-color: #000;
+}
+
+.viens {
+    background-color: #E72F24;
+   
+    
+}
+
+.divi {
+    background-color:#F0F1EC;
+    grid-row: span 3;
+   
+}
+
